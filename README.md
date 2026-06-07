@@ -105,7 +105,6 @@ pip install rispy pandas matplotlib seaborn openpyxl jupyter
 jupyter notebook notebooks/01_triagem_pack_eng40.ipynb
 ```
 
-> Ajuste o caminho do arquivo RIS na célula de carregamento conforme seu ambiente.
 
 ---
 
@@ -126,13 +125,13 @@ jupyter notebook notebooks/01_triagem_pack_eng40.ipynb
 ## 🔗 Contexto do projeto
 
 Este repositório documenta a curadoria científica por trás do **Pack Engenheiro 4.0**  
-— um produto educacional técnico que consolida 14 estudos de caso reais sobre  
+— um produto educacional técnico que consolida 14 trabalhos científicos, sendo 13 estudos de caso reais, sobre  
 implementação de tecnologias da Indústria 4.0 em processos de engenharia de produção.
 
 O Pack é voltado para engenheiros e profissionais que buscam evidências científicas  
 para fundamentar projetos de transformação digital industrial.
 
-> 🛒 Disponível em: [link do produto]
+> 🛒 Disponível em: [https://pack-engenheiro4-0.lovable.app/pack-engenheiro]
 
 ---
 
