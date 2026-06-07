@@ -131,7 +131,7 @@ implementação de tecnologias da Indústria 4.0 em processos de engenharia de p
 O Pack é voltado para engenheiros e profissionais que buscam evidências científicas  
 para fundamentar projetos de transformação digital industrial.
 
-> 🛒 Disponível em: [https://pack-engenheiro4-0.lovable.app/pack-engenheiro]
+> 🛒 Disponível em: https://pack-engenheiro4-0.lovable.app/pack-engenheiro
 
 ---
 
@@ -143,7 +143,7 @@ Engenheira de Produção | Mestre em Engenharia Têxtil (Indústria 4.0) — UFS
 Pesquisadora e produtora de conteúdo técnico na interseção entre  
 **engenharia industrial**, **pesquisa aplicada** e **análise de dados**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anamariadias)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Engineer-Ana)
 
 ---
