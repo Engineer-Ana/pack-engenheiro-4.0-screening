@@ -1,0 +1,959 @@
+﻿TY  - JOUR
+AU  - Aoufi, T
+AU  - Aksa, K
+TI  - Strategic Roadmap for Prioritizing Industry 4.0 Technologies in Manufacturing: Integrating DFSS and MCDA Approaches
+T2  - JORDAN JOURNAL OF MECHANICAL AND INDUSTRIAL ENGINEERING
+LA  - English
+KW  - Industry 4.0
+KW  - Decision-making Methods
+KW  - Technologies 4.0
+KW  - Design for Six Sigma
+KW  - Smart Manufacturing
+KW  - Factory IO
+KW  - AHP
+KW  - TOPSIS
+AB  - Industry 4.0, also known as the Fourth Industrial Revolution, has completely changed the manufacturing landscape by utilizing technology 4.0 to increase productivity, efficiency, and flexibility. Setting priorities for technology is crucial to achieving the best possible implementation as manufacturing companies transition to Industry 4.0. This abstract provides a framework that combines the Design for Six Sigma (DFSS) approach with multi-criteria decision-making (MCDM) methods to assess the readiness of manufacturing firms for Industry 4.0 adoption. At the core of the DFSS approach, we specifically utilized MCDA in the analysis phase, focusing on the key considerations and challenges. A comprehensive assessment of technologies, including artificial intelligence (AI), the Internet of Things (IoT), cyber-physical systems (CPS), augmented reality (AR), and big data, is part of the prioritizing process. Investment expenses, system integration complexity, security, and return on investment are key evaluation criteria. We also used Factory IO software in the last phase of the DFSS approach to verify, test, validate, and optimize process designs prior to real implementation. Experts can prioritize technologies that support their strategic objectives by using this approach. This study contributes a structured pathway for manufacturing industries to navigate the complexities of digital transformation with an emphasis on expert precision and quality improvement.<br /> (c) 2025 Jordan Journal of Mechanical and Industrial Engineering. All rights reserved
+AD  - Batna 2 Univ, Dept Ind Engn, Lab Automat & Mfg LAP, Batna 05000, AlgeriaPU  - HASHEMITE UNIV
+PI  - ZARKA
+PA  - DEANSHIP ACAD RES & GRADUATE STUD, PO BOX 330127, ZARKA, PC 13133, JORDAN
+SN  - 1995-6665
+J9  - JORDAN J MECH IND EN
+JI  - Jordan J. Mech. Ind. Eng.
+DA  - JUN
+PY  - 2025
+VL  - 19
+IS  - 2
+SP  - 297
+EP  - 316
+DO  - 10.59038/jjmie/190205
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001513142800005
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  56
+ER  -
+
+TY  - JOUR
+AU  - Hossfeld, M
+AU  - Wortmann, A
+TI  - A Universal Framework for Skill-Based Cyber-Physical Production Systems
+T2  - JOURNAL OF MANUFACTURING AND MATERIALS PROCESSING
+LA  - English
+KW  - automated production planning
+KW  - model-driven development
+KW  - cyber-physical production systems
+KW  - software-defined manufacturing
+KW  - skill-based manufacturing
+KW  - industrial engineering
+KW  - OPC UA
+KW  - STATE
+KW  - MODEL
+KW  - DESIGN
+KW  - SOFTWARE
+KW  - PLANS
+AB  - In the vision of smart manufacturing and Industry 4.0, it is vital to automate production processes. There is a significant gap in current practices, where the derivation of production processes from product data still heavily relies on human expertise, leading to inefficiencies and a shortage of skilled labor. This paper proposes a universal framework for skill-based cyber-physical production systems (CPPS) that formalizes production knowledge into machine-processable formats. Key contributions include a novel conceptual model for skill-based production processes and an automated method to derive production plans from high-level CPPS skills for production planning and execution. This framework aims to enhance smart manufacturing by enabling more efficient, transparent, and automated production planning, thereby addressing the critical gap in current manufacturing practices. The framework's benefits include making production processes explainable, optimizing multi-criteria systems, and eliminating human biases in process selection. A case study illustrates the framework's application, demonstrating its current capabilities and potential for modern manufacturing.
+AD  - Univ Stuttgart, InnovationCampus Future Mobil, D-70569 Stuttgart, GermanyAD  - Univ Stuttgart, Inst Control Engn Machine Tools & Mfg Units ISW, D-70174 Stuttgart, GermanyC3  - University of StuttgartC3  - University of StuttgartFU  - Ministry of Science, Research and Arts of the Federal State of Baden-Wurttemberg within the InnovationsCampus Future Mobility
+FX  - This research has been funded by the Ministry of Science, Research and Arts of the Federal State of Baden-Wurttemberg within the InnovationsCampus Future Mobility
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2504-4494
+J9  - J MANUF MATER PROC
+JI  - J. Manuf. Mater. Process.
+DA  - OCT
+PY  - 2024
+VL  - 8
+IS  - 5
+C7  - 221
+DO  - 10.3390/jmmp8050221
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001340875800001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  86
+ER  -
+
+TY  - JOUR
+AU  - da Matta, GA
+AU  - Alves, MD
+AU  - de Oliveira, NC
+AU  - da Silva, DB
+AU  - de Stefano, E
+TI  - Technology and Industry 4.0 in production engineering
+T2  - REVISTA DE GESTAO E SECRETARIADO-GESEC
+LA  - English
+KW  - Technology Innovation
+KW  - 4
+KW  - 0 Industry
+KW  - Production Engineering
+KW  - Organization
+AB  - The acronym "vuca" has been increasingly incorporated into the business world, as it defines the current behavior of the market: volatile, uncertain, complex and ambiguous. With the increase in competitiveness and the level of consumer demand, it becomes increasingly necessary to optimize resources and constantly improve processes and systems, in order to achieve the necessary competitiveness to stabilize the market. Thus, the implementation of technological and innovation tools, linked to good management practices in production engineering, becomes essential. Therefore, through the research carried out, it was sought to conceptualize industry 4.0 and its respective technologies, aiming to understand their use and practical benefits.
+AD  - Univ Fed Fluminense UFF, Engn Prod, R Des Ellis Hermydio Figueira 783, BR-27213145 Volta Redonda, RJ, BrazilAD  - Univ Fed Rio De Janeiro COPPE, Engn Civil, Inst Alberto Luiz Coimbra Posgrad & Pesquisa Engn, UFRJ, R Des Ellis Hermydio Figueira 783, BR-27213145 Volta Redonda, RJ, BrazilAD  - Univ Fed Fluminense UFF, Gestao Projetos Sustentaveis, R Des Ellis Hermydio Figueira 783, BR-27213145 Volta Redonda, RJ, BrazilC3  - Universidade Federal FluminenseC3  - Universidade Federal do Rio de JaneiroC3  - Universidade Federal FluminensePU  - SINDICATO SECRETARIAS ESTADO SAO PAULO
+PI  - SAO PAULO
+PA  - RUA TUPI 118, SAO PAULO, 01233-000, BRAZIL
+SN  - 2178-9010
+J9  - REV GEST SECR-GESEC
+JI  - Rec. Gest. Secr.-GeSeC
+PY  - 2023
+VL  - 14
+IS  - 4
+SP  - 6400
+EP  - 6413
+DO  - 10.7769/gesec.v14i4.2057
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001003293800005
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  2
+Cited Reference Count:  31
+ER  -
+
+TY  - JOUR
+AU  - Chaengpromma, N
+AU  - Pattanapairoj, S
+TI  - A gap study between industry expectations and current competencies of bachelor's degree graduates in industrial engineering in Thailand 4.0 era: A case study of industrial engineering graduates of Khon Kaen University
+T2  - COGENT EDUCATION
+LA  - English
+KW  - gap study
+KW  - industry 4.0 competency indicators
+KW  - engineering education
+KW  - industrial engineering
+KW  - MATURITY MODEL
+KW  - READINESS
+KW  - EDUCATION
+AB  - The purpose of this research is to study the gap between industry expectations and the current competencies of bachelor's degree industrial engineering graduates in Khon Kaen University in Thailand 4.0 era so that the research results of this study may be used as the guideline for improvement of the existing Bachelor of Engineering Degree program in Industrial Engineering in Khon Kaen University. A literature survey was conducted to determine appropriate indicators for assessing Thailand's readiness for Industry 4.0. These indicators were further screened by 17 industrial experts using the Delphi method. Twenty-five competency performance indicators were finally adopted and sent in questionnaires to 71 industrial factories and 60 industrial engineering engineers freshly graduated from Khon Kaen University to rate the competency indicators with scores ranging from 1-5. The data were collected and analyzed to determine the gaps between the industry expectations and the current competencies of the graduates. The results of the analysis revealed that the greatest gaps were found, in descending order, delivery management, data usage, and data analytics in the usage phase. These are the areas which must be closely considered when the study program is revised. On the other hand, the smallest gaps were found, in ascending order, for innovation management, cloud usage, ICT add-on functionalities and technology in production, indicating the strength of the industrial engineering degree program of the case study university.
+AD  - Khon Kaen Univ, Fac Engn, Master Engn Program Ind Engn, Khon Kaen, ThailandAD  - Khon Kaen Univ, Fac Engn, Dept Ind Engn, Khon Kaen, ThailandC3  - Khon Kaen UniversityC3  - Khon Kaen UniversityPU  - TAYLOR & FRANCIS AS
+PI  - OSLO
+PA  - KARL JOHANS GATE 5, NO-0154 OSLO, NORWAY
+SN  - 2331-186X
+J9  - COGENT EDUC
+JI  - Cogent Educ.
+DA  - DEC 31
+PY  - 2022
+VL  - 9
+IS  - 1
+C7  - 2093491
+DO  - 10.1080/2331186X.2022.2093491
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000822290900001
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  25
+ER  -
+
+TY  - JOUR
+AU  - Duc, ML
+AU  - Nedoma, J
+AU  - Bilik, P
+AU  - Martinek, R
+AU  - Hlavaty, L
+AU  - Thao, NTP
+TI  - Application of Fuzzy TOPSIS and Harmonic Mitigation Measurement on Lean Six Sigma: A Case Study in Smart Factory
+T2  - IEEE ACCESS
+LA  - English
+KW  - RFID
+KW  - smart manufacturing
+KW  - six sigma
+KW  - hybrid DMAIC
+KW  - harmonic
+KW  - fuzzy TOPSIS
+KW  - IMPLEMENTATION
+KW  - FRAMEWORK
+KW  - REDUCTION
+AB  - Customers' requirements for product quality are increasing and more and more manufacturing companies are improving the quality of processing conditions at each production process by applying advances in Internet Technologies, Internet of Things, Big Data, Industry 4.0, Industrial Engineering Tools, Multi-objective optimization algorithms, Digital Numerical Control (DNC) method, and Six Sigma tools to improve productivity and quality of product. Continuous improvement of the manufacturing process presents a huge opportunity for the transformation of the normal production model to smart manufacturing. Manufacturing condition data, production data, quality of product data, and power quality data are measured and collected in real-time forming big data fed into operation analysis of the development strategy of the manufacturing company. In this study, the implementation of the Hybrid DMAIC (Define-Measure-Analyze-Improve-Control) method in six sigma is presented in detail based on the statistical hypothesis testing techniques for analyzing production data applied at the measurement phase, Multi-objective decision Fuzzy TOPSIS techniques applied to choose the best improvement solution applied at the analysis phase, Multi-objective optimization technique optimizes production conditions, and the DNC method performs automatically program call by RFID system applied at improvement phase, measurement technique, real-time measurement result collection and analysis by Industry 4.0 system and the method of phase shift is used to keep Total Harmonic Distortion (THD) and Total Demand Distortion (TDD) less than 5% within the international standard limits defined by IEEE 519:2022 and IEC 61000 applied at control phase. A common data system linking all activities at a particular manufacturing process and hybrid DMAIC in Six Sigma continuous improvement model is proposed in this study. This research's results, the rate of occurrence of smaller-than-standard outer diameter defects decreased from 31.20% to 4.5% per month, the grinding process productivity achieved 610 pcs per day while the number of operators decreased from 4 people to 2 people per day, and productivity per person per hour increased from 15 PCS to 30 PCS. The profit is achieved at 11,184 USD per year. The Hybrid DMAIC method in Six Sigma is considered a model of continuous improvement that can be applied to production processes in manufacturing companies. The Hybrid DMAIC method in Six Sigma is simple to implement, easy to deploy into the real environment at production processes, and uses commercial software such as Minitab, LABVIEW, and SPSS. Manufacturing companies apply this research model to help improve competitiveness, improve business performance, and improve customer satisfaction.
+AD  - Van Lang Univ, Fac Commerce, Ho Chi Minh City, VietnamAD  - VSB Tech Univ Ostrava, Fac Elect Engn & Comp Sci, Dept Cybernet & Biomed Engn, Ostrava, Czech RepublicAD  - VSB Tech Univ Ostrava, Dept Telecommun, Ostrava, Czech RepublicAD  - Ton Duc Thang Univ, Fac Elect & Elect Engn, Ho Chi Minh City, VietnamC3  - Van Lang UniversityC3  - Technical University of OstravaC3  - Technical University of OstravaC3  - Ton Duc Thang UniversityFU  - Ministry of Education of the Czech Republic Project [SP2023/039, SP2023/042]; European Union under the REFRESH - Research Excellence For REgion Sustainability and High-Tech Industries via the Operational Programme Just Transition [CZ.10.03.01/00/22_003/0000048]
+FX  - This work was supported in part by the Ministry of Education of the Czech Republic Project under Grant SP2023/039 and Grant SP2023/042, and in part by the European Union under the REFRESH - Research Excellence For REgion Sustainability and High-Tech Industries via the Operational Programme Just Transition under Project CZ.10.03.01/00/22_003/0000048.
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 2169-3536
+J9  - IEEE ACCESS
+JI  - IEEE Access
+PY  - 2023
+VL  - 11
+SP  - 81577
+EP  - 81599
+DO  - 10.1109/ACCESS.2023.3299326
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001045243800001
+N1  - Times Cited in Web of Science Core Collection:  6
+Total Times Cited:  6
+Cited Reference Count:  73
+ER  -
+
+TY  - JOUR
+AU  - Chen, TT
+AU  - Sampath, V
+AU  - May, MC
+AU  - Shan, S
+AU  - Jorg, OJ
+AU  - Martin, JJA
+AU  - Stamer, F
+AU  - Fantoni, G
+AU  - Tosello, G
+AU  - Calaon, M
+TI  - Machine Learning in Manufacturing towards Industry 4.0: From 'For Now' to 'Four-Know'
+T2  - APPLIED SCIENCES-BASEL
+LA  - English
+KW  - machine learning
+KW  - Industry 4
+KW  - 0
+KW  - manufacturing
+KW  - artificial intelligence
+KW  - smart manufacturing
+KW  - digitization
+KW  - PREVENTIVE MAINTENANCE
+KW  - PREDICTIVE MAINTENANCE
+KW  - STATISTICAL-INFERENCE
+KW  - HANDCRAFTED FEATURES
+KW  - QUALITY PREDICTION
+KW  - COMPONENT ANALYSIS
+KW  - ANOMALY DETECTION
+KW  - DEFECT DETECTION
+KW  - NEURAL-NETWORKS
+KW  - FAULT-DETECTION
+AB  - While attracting increasing research attention in science and technology, Machine Learning (ML) is playing a critical role in the digitalization of manufacturing operations towards Industry 4.0. Recently, ML has been applied in several fields of production engineering to solve a variety of tasks with different levels of complexity and performance. However, in spite of the enormous number of ML use cases, there is no guidance or standard for developing ML solutions from ideation to deployment. This paper aims to address this problem by proposing an ML application roadmap for the manufacturing industry based on the state-of-the-art published research on the topic. First, this paper presents two dimensions for formulating ML tasks, namely, 'Four-Know' (Know-what, Know-why, Know-when, Know-how) and 'Four-Level' (Product, Process, Machine, System). These are used to analyze ML development trends in manufacturing. Then, the paper provides an implementation pipeline starting from the very early stages of ML solution development and summarizes the available ML methods, including supervised learning methods, semi-supervised methods, unsupervised methods, and reinforcement methods, along with their typical applications. Finally, the paper discusses the current challenges during ML applications and provides an outline of possible directions for future developments.
+AD  - Tech Univ Denmark, Dept Civil & Mech Engn, DK-2800 Kongens Lyngby, DenmarkAD  - Autonomous & Intelligent Syst Unit, Tekniker, Basque Res & Technol Alliance, Eibar 20600, SpainAD  - Karlsruhe Inst Technol KIT, wbk Inst Prod Sci, Kaiserstr 12, D-76131 Karlsruhe, GermanyAD  - Univ Pisa, Dept Civil & Ind Engn, I-56122 Pisa, ItalyAD  - Univ Zarazoga, Sch Engn & Architecture, Dept Design & Mfg Engn, Zaragoza 50009, SpainC3  - Technical University of DenmarkC3  - Helmholtz AssociationC3  - Karlsruhe Institute of TechnologyC3  - University of PisaFU  - European Training Network - Horizon 2020 [814225]
+FX  - This research was funded by a European Training Network supported by Horizon 2020, grant number 814225.
+PU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 2076-3417
+J9  - APPL SCI-BASEL
+JI  - Appl. Sci.-Basel
+DA  - FEB
+PY  - 2023
+VL  - 13
+IS  - 3
+C7  - 1903
+DO  - 10.3390/app13031903
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000933779000001
+N1  - Times Cited in Web of Science Core Collection:  43
+Total Times Cited:  51
+Cited Reference Count:  228
+ER  -
+
+TY  - JOUR
+AU  - Belmonte, LM
+AU  - Segura, E
+AU  - Gomez-Sirvent, JL
+AU  - de la Rosa, FL
+AU  - de las Morenas, J
+AU  - Fernández-Caballero, A
+AU  - Morales, R
+TI  - Digital Tech Integration in Industrial Engineer Training via Affordable Academic Tools
+T2  - COMPUTERS
+LA  - English
+KW  - Industry 4.0 concepts
+KW  - teaching-learning methodologies
+KW  - learning objectives
+KW  - enabling digital technologies
+KW  - low-cost academic technologies
+KW  - EDUCATION
+KW  - FUTURE
+KW  - STYLES
+KW  - STUDENTS
+KW  - CYCLE
+AB  - The rapid advancement of Industry 4.0 and digital transformation is significantly impacting various sectors. Enabling digital technologies, such as big data, machine learning, and the Internet of Things, is becoming increasingly prevalent in industry. However, engineering curricula often fail to keep pace with these swift changes. This study, grounded in Kolb's experiential learning theory, investigates the integration of enabling digital technologies into final academic projects for industrial engineering students to enhance their competencies through practical experience with affordable technologies. It presents a case study on the design of access control systems using Android, NFC, and Arduino. To demonstrate the potential of this approach, two projects are highlighted: one implementing an integrated parking access control system with NFC payment, and the other focusing on appointment management for access to services. A total of 50 industrial engineering students evaluated both projects, showing a high level of interest and a desire for similar future implementations. The findings indicate that integrating Industry 4.0 technologies into final academic projects effectively bridges the gap between industry requirements and engineering education, enhancing students' technical skills through experiential learning.
+AD  - Univ Castilla La Mancha, Inst Invest Informat Albacete I3A, Ave Espana S-N, Albacete 02071, SpainAD  - Univ Castilla La Mancha, Dept Ingn Electr Elect Automat & Comunicac, Ave Espana S-N, Albacete 02005, SpainAD  - Univ Castilla La Mancha, Dept Adm Empresas, Ave Camilo Jose Cela S-N, Ciudad Real 13071, SpainAD  - Univ Castilla La Mancha, Dept Sistemas Informat, Ave Espana S-N, Albacete 02005, SpainC3  - Universidad de Castilla-La ManchaC3  - Universidad de Castilla-La ManchaC3  - Universidad de Castilla-La ManchaC3  - Universidad de Castilla-La ManchaFU  - European Union "NextGenerationEU/PRTR" [PCI2022-135043-2]; Universidad de Castilla-La Mancha; Spanish MCIN/AEI/10.13039/501100011033; Junta de Comunidades de Castilla-La Mancha/ESF [SBPLY/21/180501/000030, SBPLY/24/180225/000225]; Spanish Ministry of Science and Innovation (MCIN) [PID2022-141978NB-I00]; European Project REBBECA [101097224, HORIZON-KDT-JU-2021-2-RIA]
+FX  - This work was partially supported by the Spanish Ministry of Science and Innovation (MCIN) grant number PID2022-141978NB-I00; European Project REBBECA (Project ID: 101097224; HORIZON-KDT-JU-2021-2-RIA); and Spanish MCIN/AEI/10.13039/501100011033 and the European Union "NextGenerationEU/PRTR" grant number PCI2022-135043-2. This work has also been partially supported by Junta de Comunidades de Castilla-La Mancha/ESF (grant numbers SBPLY/21/180501/000030 and SBPLY/24/180225/000225). Finally, this work was also partially supported by Universidad de Castilla-La Mancha under Innovation Teaching Project "Experiential Learning in Digital Technologies for Industry 4.0 Aprendizaje experiencial en tecnolog & Iacute;as digitales para la Industria 4.0".
+PU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 2073-431X
+J9  - COMPUTERS
+JI  - Computers
+DA  - DEC 11
+PY  - 2025
+VL  - 14
+IS  - 12
+C7  - 547
+DO  - 10.3390/computers14120547
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001646266600001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  124
+ER  -
+
+TY  - JOUR
+AU  - Matias, F
+AU  - Miranda, S
+AU  - Yildiz, O
+AU  - Chávez, P
+AU  - Alvarez, JC
+TI  - A Data-Driven Approach to Lean and Digital Process Re-Modeling for Sustainable Textile Production: A Case Study
+T2  - SUSTAINABILITY
+LA  - English
+KW  - data-driven lean management
+KW  - re-business process modelling
+KW  - digitalization in manufacturing
+KW  - sustainable production systems
+KW  - Industry 4.0 integration
+KW  - INDUSTRY 4.0
+KW  - MANAGEMENT
+AB  - This study presents a data-driven framework that integrates lean management and digital business process modelling to enhance sustainability in textile manufacturing. Conducted in a company producing industrial safety textiles from Peru, this research applies lean tools within a digital BPM structure supported by real-time data tracking. The integrated approach led to increased production efficiency (from 79% to 86%), reduced setup times, and improved operational agility. The digital infrastructure empowered operators and supported informed decision-making. This work contributes to Industrial Engineering, Business Administration, and MIS by offering a holistic model that bridges lean principles with Industry 4.0 technologies. The findings, though context-specific, provide actionable insights for manufacturers aiming for smart and sustainable operations. Future research should validate the proposed framework across diverse industrial contexts and assess its longitudinal impact on lean performance outcomes.
+AD  - Univ Peruana Ciencias Aplicadas, Fac Engn, Santiago De Surco 15023, PeruAD  - Saarland Univ, European Inst Adv Behav Management, D-66123 Saarbrucken, GermanyAD  - Natl Univ San Marcos, Fac Ind Engn, Lima 15081, PeruAD  - Izmir Democracy Univ, Fac Econ & Adm Sci, MIS Dept, TR-35620 Izmir, TurkiyeC3  - Universidad Peruana de Ciencias Aplicadas (UPC)C3  - Saarland UniversityC3  - Universidad Nacional Mayor de San MarcosC3  - Izmir Democracy UniversityFU  - Direccion de Investigacion de la Universidad Peruana de Ciencias Aplicadas [Ex-POST 2025-1]; Knowledge contribution of Izmir Democracy University
+FX  - This research work is funded by Direccion de Investigacion de la Universidad Peruana de Ciencias Aplicadas through Ex-POST 2025-1, with the knowledge contribution of Izmir Democracy University.
+PU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - OCT 6
+PY  - 2025
+VL  - 17
+IS  - 19
+C7  - 8888
+DO  - 10.3390/su17198888
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001593881400001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  50
+ER  -
+
+TY  - JOUR
+AU  - Bortolini, M
+AU  - Botti, L
+AU  - Galizia, FG
+AU  - Mora, C
+TI  - Ergonomic Design of an Adaptive Automation Assembly System
+T2  - MACHINES
+LA  - English
+KW  - adaptive automation assembly systems
+KW  - smart manufacturing system
+KW  - ergonomic design
+KW  - Industry 4.0
+KW  - industrial plants
+KW  - WORKSTATION DESIGN
+KW  - KINECT(TM) SENSOR
+KW  - WORKING POSTURE
+KW  - CRANE CABIN
+KW  - MUSCULOSKELETAL
+KW  - HEIGHT
+AB  - Ergonomics is a key factor in the improvement of health and productivity in workplaces. Its use in improving the performance of a manufacturing process and its positive effects on productivity and human performance is drawing the attention of researchers and practitioners in the field of industrial engineering. This paper proposes an ergonomic design approach applied to an innovative prototype of an adaptive automation assembly system (A3S) equipped with Microsoft Kinect & TRADE; for real-time adjustment. The system acquires the anthropometric measurements of the operator by means of the 3-D sensing device and changes its layout, arranging the mobile elements accordingly. The aim of this study was to adapt the assembly workstation to the operator dimensions, improving the ergonomics of the workstation and reducing the risks of negative effects on workers' health and safety. The case study of an assembly operation of a centrifugal electric pump is described to validate the proposed approach. The assembly operation was simulated at a traditional fixed workstation and at the A3S. The shoulder flexion angle during the assembly tasks at the A3S reduced between 18% and 47%. The ergonomic risk assessment confirmed the improvement of the ergonomic conditions and the ergonomic benefits of the A3S.
+AD  - Univ Bologna, Dept Ind Engn, Alma Mater Studiorum, I-40136 Bologna, ItalyAD  - Univ Modena & Reggio Emilia, Dept Engn Enzo Ferrari, I-41125 Modena, ItalyC3  - University of BolognaC3  - Universita di Modena e Reggio EmiliaPU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 2075-1702
+J9  - MACHINES
+JI  - Machines
+DA  - SEP
+PY  - 2023
+VL  - 11
+IS  - 9
+C7  - 898
+DO  - 10.3390/machines11090898
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001073992100001
+N1  - Times Cited in Web of Science Core Collection:  8
+Total Times Cited:  9
+Cited Reference Count:  49
+ER  -
+
+TY  - JOUR
+AU  - Rashed, CA
+AU  - Bagum, N
+AU  - Kibria, MMH
+AU  - Chowdhury, RA
+AU  - Islam, MA
+TI  - Integrating Supply Chain Partners through Implementing Industry 4.0 Technologies to Enhance Competitiveness
+T2  - JORDAN JOURNAL OF MECHANICAL AND INDUSTRIAL ENGINEERING
+LA  - English
+KW  - Industry 4.0 technology
+KW  - Supply Chain Partners
+KW  - Competitiveness
+KW  - Conceptual Framework.
+KW  - PLS-SEM
+KW  - MANAGEMENT
+KW  - SYSTEM
+KW  - SUSTAINABILITY
+KW  - PRODUCTS
+KW  - MODEL
+AB  - Manufacturing companies must embrace state-of-the-art technologies to keep up with the rapid advancements in technology and innovation. This study examines how integrating supply chain partners in implementing technologies like I4.0 can improve Competitiveness. The research employed a survey -based approach, utilizing a well -constructed semi -structured questionnaire. One hundred and twenty-five responses were obtained from Bangladesh's Readymade Garments Sector. Based on previous literature and the responses from the respondents, a conceptual model was formulated, which generated six hypotheses. The model and the hypotheses are tested and validated through Structural Equation Modeling. Smart PLS 4.0 was employed for data analysis. The study's findings support all the proposed hypotheses, confirming the validity of the developed model. The effective and efficient implementation of cutting -edge technologies through linking with the supply network partners would build Competitiveness. (c) 2024 Jordan Journal of Mechanical and Industrial Engineering. All rights reserved
+AD  - Shahjalal Univ Sci & Technol, Dept Ind & Prod Engn, Sylhet, BangladeshC3  - Shahjalal University of Science & Technology (SUST)FU  - Shahjalal University of Science and Technology Research Centre [AS/2022/1/37]
+FX  - The authors thank the Shahjalal University of Science and Technology Research Centre for the allocation of the fund with project ID: AS/2022/1/37.
+PU  - HASHEMITE UNIV
+PI  - ZARKA
+PA  - DEANSHIP ACAD RES & GRADUATE STUD, PO BOX 330127, ZARKA, PC 13133, JORDAN
+SN  - 1995-6665
+J9  - JORDAN J MECH IND EN
+JI  - Jordan J. Mech. Ind. Eng.
+DA  - JUN
+PY  - 2024
+VL  - 18
+IS  - 2
+SP  - 351
+EP  - 363
+DO  - 10.59038/jjmie/180208
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001246670000008
+N1  - Times Cited in Web of Science Core Collection:  10
+Total Times Cited:  11
+Cited Reference Count:  91
+ER  -
+
+TY  - JOUR
+AU  - Dinesh, M
+AU  - Arvind, C
+AU  - Srihari, K
+TI  - An efficient industry 4.0 architecture for energy conservation using an automatic machine monitor and control in the foundry
+T2  - AUTOMATIKA
+LA  - English
+KW  - Control system
+KW  - electronics and communication engineering
+KW  - industrial engineering
+KW  - autonomous system
+KW  - intelligent automation
+KW  - TEMPERATURE CONTROL
+KW  - SENSOR
+AB  - In this article, a machine monitor and control architecture (MMCA) satisfying the industry 4.0 standard is proposed for energy conservation by optimizing the core moulding machine in industrial automation. Since the foundry environment is a fine dust area and is maintained at very high temperatures (around 140 degrees C), the manual operation of machines is more complex and demanding. Moreover, the monitoring and controlling of machines need highly reliable eco-friendly systems. With real-time data logging, the proposed MMCA prototype system has been installed to monitor and control the overall process in a single core shooter machine (CSM). The parameters controlled using MMCA in foundry machinery include pressure, temperature and power consumption. The complete system can be controlled using an intranet or Internet connection without any human intervention in the machinery environment, which operates at a very high temperature. After explaining the architecture and its features, the experimental results are presented on a real-time implementation of the framework to validate the optimal energy management by the proposed MMCA. The experiments were performed on a CSM, which is automated for practical industrial applications. Its real-time implementation ensures that MMCA-based monitoring and controlling is more effective and advantageous than the programmable logic controller-based machine monitoring.
+AD  - Shri Angalamman Coll Engn & Technol, Dept ECE, Trichy, IndiaAD  - Karpagam Coll Engn, Dept ECE, Coimbatore, Tamil Nadu, IndiaAD  - SNS Coll Technol, Dept CSE, Coimbatore, Tamil Nadu, IndiaC3  - Karpagam College of EngineeringC3  - SNS College of TechnologyPU  - TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN  - 0005-1144
+SN  - 1848-3380
+J9  - AUTOMATIKA-UK
+JI  - Automatika
+DA  - JUL 3
+PY  - 2022
+VL  - 63
+IS  - 3
+SP  - 542
+EP  - 554
+DO  - 10.1080/00051144.2022.2051977
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000774726300001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  2
+Cited Reference Count:  17
+ER  -
+
+TY  - JOUR
+AU  - Barcellini, F
+AU  - Béarée, R
+AU  - Benchekroun, TH
+AU  - Bounouar, M
+AU  - Buchmann, W
+AU  - Dubey, G
+AU  - Lafeuillade, AC
+AU  - Moricot, C
+AU  - Rosselin-Bareille, C
+AU  - Saraceno, M
+AU  - Siadat, A
+TI  - Promises of industry 4.0 under the magnifying glass of interdisciplinarity: revealing operators and managers work and challenging collaborative robot design
+T2  - COGNITION TECHNOLOGY & WORK
+LA  - English
+KW  - Collaborative robotics
+KW  - Interdisciplinarity
+KW  - Ergonomics
+KW  - Sociology
+KW  - Industrial engineering
+KW  - Robotics
+KW  - Work situation
+KW  - Industry 4
+KW  - 0
+KW  - COMPUTER
+AB  - The goal of this article is to propose a cross-perspective around Collaborative Robotics-seen as a remarkable example of technologies 4.0 in an industrial context-by calling on sociology, activity-centred ergonomics, engineering, and robotics expertises. The development of this cross-perspective is thought to be a key issue to improve the design of work organisation for the Industry 4.0. After a socio-historical review of promises of Collaborative Robotics, the interdisciplinary approach developed and applied in a French Small & Medium Enterprise (SME) is presented. In this case study, two work situations are focused on in an interdisciplinary perspective: on the one hand, the one of operators whose professional gestures are intended to be supported by collaborative robots, and on the other the one of managers and executives as responsible for socio-technical changes. Our results reveal the technical and socio-organisational challenges faced by SMEs beyond the introduction of given technologies: analysing the relevance and feasibility of cobotisation projects with regard to the complexity of professional gestures and preserving the quality of work and performance under a continuous pressure to change (organisations, technologies). These findings support discussions of promises of collaborative robotics, and more generally Industry 4.0, regarding effective worker/technology collaboration and the possibility of "healthy" and performant work; they reiterate requirements for work-centred and participatory design, for reconnection in a sensory experience in a more and more digitalized work and open ways for more interdisciplinary approaches.
+AD  - Le Cnam, Ergon team, CRTD, 41 rue Gay, F-75005 Paris, FranceAD  - Univ Paris 1 Pantheon Sorbonne, CETCOPRA, 13, rue Four, F-75006 Paris, FranceAD  - ENSAM, LCFC, 4 rue A Fresnel, F-57078 Metz, FranceAD  - LISPEN, Arts & Metiers, 8 Bd Louis 14, F-59800 Lille, FranceAD  - Inst Mines Telecom, Business Sch, 9 Rue Charles Fourier, F-91000 Courcouronnes, FranceAD  - Univ Orleans, Orleans, FranceAD  - Univ Reims, Reims, FranceC3  - heSam UniversiteC3  - Conservatoire National Arts & Metiers (CNAM)C3  - Universite de LorraineC3  - Arts et Metiers Institute of TechnologyC3  - Arts et Metiers Institute of TechnologyC3  - IMT - Institut Mines-TelecomC3  - Institut Mines-Telecom Business SchoolC3  - Institut Polytechnique de ParisC3  - Telecom SudParisC3  - Universite de OrleansC3  - Universite de Reims Champagne-ArdenneFU  - French National Agency for Research-Agence Nationale pour la Recherche (ANR) [ANR-17-CE10-0011]; Agence Nationale de la Recherche (ANR) [ANR-17-CE10-0011] Funding Source: Agence Nationale de la Recherche (ANR)
+FX  - The research was funded by the French National Agency for Research-Agence Nationale pour la Recherche (ANR) - "To Stimulate Industrial Resurgence" - HECTTOR project ("L'Humain Engage par la Cobotisation dans les Transformations du Travail et des ORganisations dans les usines du futur" ("Humans Engaged through Cobotisation in Work and Organization Transformation in factories of the Future") ANR-17-CE10-0011. All the authors warmly thank the Ceram company for its help.
+PU  - SPRINGER LONDON LTD
+PI  - LONDON
+PA  - 236 GRAYS INN RD, 6TH FLOOR, LONDON WC1X 8HL, ENGLAND
+SN  - 1435-5558
+SN  - 1435-5566
+J9  - COGN TECHNOL WORK
+JI  - Cogn. Technol. Work
+DA  - AUG
+PY  - 2023
+VL  - 25
+IS  - 2-3
+SP  - 251
+EP  - 271
+DO  - 10.1007/s10111-023-00726-6
+C6  - APR 2023
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000978555100001
+N1  - Times Cited in Web of Science Core Collection:  9
+Total Times Cited:  13
+Cited Reference Count:  104
+ER  -
+
+TY  - JOUR
+AU  - Neumann, EM
+AU  - Vogel-Heuser, B
+AU  - Fischer, J
+AU  - Diehm, S
+AU  - Schwarz, M
+AU  - Englert, T
+TI  - Automation software architectures in automated production systems: an industrial case study in the packaging machine industry
+T2  - PRODUCTION ENGINEERING-RESEARCH AND DEVELOPMENT
+LA  - English
+KW  - Automation software architecture
+KW  - IEC 61131-3
+KW  - Design decisions
+KW  - Automated Production Systems
+AB  - In the era of Industry 4.0, advances in production engineering are driven by modern machines and equipment, whose evolution depends primarily on software nowadays. These machines are combined in automated Production Systems (aPS), whose software is characterized by high complexity, long lifetimes, and strong coupling of mechatronic disciplines. The development of modular, flexible software architectures that adapt to company- and process-specific boundary conditions is an essential prerequisite for companies to compete globally. While there are many approaches in computer science, a clear definition of control software architecture in aPS and systematic approaches to analyze company-specific software architectures and the underlying design decisions are still missing. This gap is addressed by defining control software architecture in aPS, including architectural views to address the heterogeneity of influencing factors on control software. To enable a systematic architecture analysis, templates are defined for visualizing design decisions to derive concrete recommendations to support practitioners in improving software. An in-depth interview study in three renowned companies from packaging machinery confirmed the benefit of the proposed architecture analysis to systematically identify optimization potentials and concrete starting points for the implementation.
+AD  - Tech Univ Munich, TUM Sch Engn & Design, Inst Automat & Informat Syst, Garching, GermanyAD  - MDSI, Munich, GermanyAD  - MIRMI, Munich, GermanyAD  - Schneider Elect Automat GmbH, Marktheidenfeld, GermanyC3  - Technical University of MunichC3  - Schneider ElectricFU  - Projekt DEAL
+FX  - Open Access funding enabled and organized by Projekt DEAL.
+PU  - SPRINGER HEIDELBERG
+PI  - HEIDELBERG
+PA  - TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN  - 0944-6524
+SN  - 1863-7353
+J9  - PROD ENG-RES DEV
+JI  - Prod. Eng.-Res. Dev.
+DA  - DEC
+PY  - 2022
+VL  - 16
+IS  - 6
+SP  - 847
+EP  - 856
+DO  - 10.1007/s11740-022-01133-y
+C6  - MAY 2022
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000799432000001
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  19
+ER  -
+
+TY  - CPAPER
+AU  - Navarro, JG
+AU  - Ruiz, JFD
+AU  - Orgaz, EMS
+ED  - Escriba, JCC
+ED  - Sabater, JPG
+TI  - Assessment of CT10-Knowledge of contemporary problems in industrial subjects
+T2  - VIII CONGRESO DE INNOVACION EDUCATIVA Y DOCENCIA EN RED, IN-RED 2022
+LA  - Spanish
+CP  - 8th CONGRESS OF EDUCATIONAL INNOVATION AND TEACHING ON THE NETWORK
+KW  - competence assessment
+KW  - learning outcomes
+KW  - knowledge of contemporary problems
+KW  - HIGHER-EDUCATION
+AB  - Competence-based teaching has been consolidated in the Universitat Politecnica de Valencia as a more functional methodology to address the knowledge acquired by students towards the productive sector.
+   The proposed teaching activity for the implementation of the competence of "Knowledge of Contemporary Problems" is the realisation of an industrial project developed within the subject "Design and Application of Industrial Equipment" (Master's Degree in Industrial Engineering). This competence is about the understanding of the emergence of issues related to current social, political, legal and environmental values. The students can face different problems in the industrial field, but all the projects apply the techniques of this generic competence analysising the Sustainable Development Goals (SDGs) and Industry 4.0. The projects are evaluated through a logistic analysis and the technical solutions proposed by the students.
+   Around 200 academic works over two academic years have been evaluated. The results of the assessment have been correlated with the work and the subject grades. The projects indicate that the concepts of SDG and Industry 4.0 are useful tools, preparing the students for their insertion in the labour market. Further analysis is needed to check if the rubrics method used is functional for this type of competence assessment.
+AD  - Univ Politecn Valencia UPV, Inst Univ Ingn Mecan & Biomecan, Camino Vera S-N, Valencia 46022, SpainC3  - Universitat Politecnica de ValenciaPU  - UNIV POLITECNICA VALENCIA
+PI  - VALENCIA
+PA  - CAMINO VERA S-N, VALENCIA, 46022, SPAIN
+SN  - 2603-5863
+SN  - 978-84-1396-017-3
+J9  - Coleccion Congresos
+PY  - 2022
+SP  - 339
+EP  - 347
+DO  - 10.4995/INRED2022.2022.15886
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index- Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001205968000029
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  16
+ER  -
+
+TY  - JOUR
+AU  - Jewpanya, P
+AU  - Nuangpirom, P
+AU  - Pitjamit, S
+AU  - Jaichomphu, P
+AU  - Chaithanul, K
+AU  - Sriyab, S
+TI  - Transforming Industrial Engineering Education: Introducing the CWILE Model for Work-Integrated Learning in the Digital Age
+T2  - JOURNAL OF TECHNICAL EDUCATION AND TRAINING
+LA  - English
+KW  - Work- integrated learning
+KW  - industrial engineering
+KW  - teaching and learning process
+KW  - IR4.0
+KW  - TVET
+AB  - Thailand's industrial sector has made significant progress in adopting and implementing technology associated with Industry 4.0. As technology advances and industries become more digitally driven, a skilled and adaptable workforce becomes paramount. The responsibility for cultivating such human resources lies with educational institutions. They are the foundation for developing a workforce that can thrive in the digital age by staying responsive to industry trends, fostering business collaboration, and prioritising technical and soft skills. Work-integrated learning (WIL) is one of the educational programs that can help improve student skills by integrating the theoretical exploration of a particular subject with its practical implementation within a professional environment. The WIL program enables individuals to demonstrate competence, expertise, and the capacity to keep up with contemporary technologies. This paper proposes the new WIL model for the WIL program in the industrial engineering profession, known as the CWILE model. The study aims to identify and establish the benefits of the CWILE model. These benefits include enhanced skill development, improved readiness for industry demands, and a seamless transition from education to the workforce. The initial step in the research procedure involved collecting stakeholders' perspectives on the existing WIL program in the industrial engineering department of the engineering faculty at Rajamangala University of Technology Lanna (RMUTL), Thailand. Following stakeholder feedback, the CWILE model was developed and implemented with the participation of eighteen students in the WIL program. The effectiveness of the CWILE model was assessed through a comprehensive evaluation of student competencies: core competency, functional competency, and professional competency. The evaluations were conducted at three distinct intervals: before, during, and after instruction. This longitudinal assessment allows a nuanced understanding of how the WIL program influences student competencies. The results of this study show that the duration of attending the WIL program is positively correlated with an increase in all competencies.
+AD  - Rajamangala Univ Technol Lanna, Tak 63000, ThailandAD  - Rajamangala Univ Technol Lanna, Chiang Mai 50300, ThailandC3  - Rajamangala University of Technology LannaFU  - National Higher Education Science Research and Innovation Policy Council (NXPO); Program Management Unit for Human Recourses & Institutional Development, Research, and Innovation (PMU-B) [B01G640025]
+FX  - This research was partially supported by the National Higher Education Science Research and Innovation Policy Council (NXPO) in the Program Management Unit for Human Recourses & Institutional Development, Research, and Innovation (PMU-B) under grant B01G640025. This support is gratefully acknowledged.
+PU  - PENERBIT UTHM
+PI  - BATU PAHAT
+PA  - Penerbit UTHM Universiti Tun Hussein Onn Malaysia, BATU PAHAT, JOHOR, MALAYSIA
+SN  - 2229-8932
+SN  - 2600-7932
+J9  - J TECH EDUC TRAIN
+JI  - J. Tech. Educ. Train.
+PY  - 2023
+VL  - 15
+IS  - 4
+SP  - 143
+EP  - 153
+DO  - 10.30880/jtet.2023.15.04.012
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001146247800002
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  3
+Cited Reference Count:  22
+ER  -
+
+TY  - JOUR
+AU  - Deja, A
+AU  - Slaczka, W
+AU  - Dzhuguryan, L
+AU  - Dzhuguryan, T
+AU  - Ulewicz, R
+TI  - Green technologies in smart city multifloor manufacturing clusters: A framework for additive manufacturing management
+T2  - PRODUCTION ENGINEERING ARCHIVES
+LA  - English
+KW  - City multifloor manufacturing
+KW  - cluster
+KW  - Additive manufacturing
+KW  - Facilities multi-floor layout
+KW  - Management
+KW  - Transport
+KW  - ENERGY-FLOW ANALYSIS
+KW  - INDUSTRY 4.0
+KW  - MASS CUSTOMIZATION
+KW  - EFFICIENCY
+KW  - LAYOUT
+KW  - ARCHITECTURE
+KW  - DESIGN
+KW  - FUTURE
+AB  - The development of smart sustainable megapolises is associated with the formation of city multifloor manufacturing clusters (CMFMCs) in them directly in the residential area in order to reduce the supply chain from the manufacturer to consumers. Additive technologies (ATs) belong to green technologies because they are considered environmentally sustainable due to less production waste and the ability to reuse of product materials within the circular economy concept. Sustainable development of ATs and additive manufacturing management has become a priority sphere for scientific research, and the use of ATs in the city manufacturing has become any daily reality. Nevertheless, the issues of additive manufacturing management within the CMFMCs have not yet been sufficiently studied. The primary goal of this study was to examine the possibilities of additive manufacturing management in the CMFMCs of the megapolis due to the rational facilities multi-floor layout in production buildings, considering the structure of city manufacturing and business process reengineering related to the needs of the production services market. This paper presents a novel model of facilities multi-floor layout in the production buildings of the CMFMCs, considering the structure of city manufacturing, morphological analysis of the additive manufacturing equipment (AME) used, the balance of material and energy flows under infrastructure capacity limitations of megapolis. The model was verified based on a case study for various options of the floor-by-floor grouping of AME in a building of the CMFMCs. Management solutions for maintaining the flow balance of material, energy and water resources in the CMFMCs are discussed. The results may be useful for additive manufacturing management in an urban environment, taking into account the needs of the production services market in the megapolis.
+AD  - Maritime Univ Szczecin, 1-2 Waly Chrobrego St, PL-70500 Szczecin, PolandAD  - I J Paderewski Nonpubl Primary Sch Promyk Szkola J, Szczecin, PolandAD  - Czestochowa Tech Univ, Fac Management, Dept Prod Engn & Safety, PL-42201 Czestochowa, PolandC3  - Maritime University of SzczecinC3  - Technical University CzestochowaFU  - Maritime University of Szczecin
+FX  - Research and publication financed from the statutory research fund of the Maritime University of Szczecin
+PU  - WALTER DE GRUYTER GMBH
+PI  - BERLIN
+PA  - GENTHINER STRASSE 13, D-10785 BERLIN, GERMANY
+SN  - 2353-5156
+SN  - 2353-7779
+J9  - PROD ENG ARCH
+JI  - Prod. Eng. Arch.
+DA  - DEC 1
+PY  - 2023
+VL  - 29
+IS  - 4
+SP  - 428
+EP  - 443
+DO  - 10.30657/pea.2023.29.48
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001094733600009
+N1  - Times Cited in Web of Science Core Collection:  11
+Total Times Cited:  17
+Cited Reference Count:  107
+ER  -
+
+TY  - JOUR
+AU  - Singhaphandu, R
+AU  - Pannakkong, W
+AU  - Huynh, V
+AU  - Boonkwan, P
+TI  - A Manual Assembly Virtual Training System With Automatically Generated Augmented Feedback: Using the Comparison of Digitized Operator's Skill
+T2  - IEEE ACCESS
+LA  - English
+KW  - Training
+KW  - Assembly
+KW  - Task analysis
+KW  - Motors
+KW  - Production
+KW  - Color
+KW  - Visualization
+KW  - Industrial engineering
+KW  - Pose estimation
+KW  - Virtual environments
+KW  - Fourth Industrial Revolution
+KW  - Industrial training
+KW  - deep learning
+KW  - digital twins
+KW  - pose estimation
+KW  - computer vision
+KW  - manual assembly
+KW  - virtual training
+KW  - augmented feedback
+KW  - industry 4.0
+KW  - skill assessment
+KW  - ACTION RECOGNITION
+KW  - COMPOSITE LAYUP
+KW  - REALITY
+KW  - TIME
+KW  - MAINTENANCE
+KW  - NETWORKS
+KW  - MODEL
+AB  - In general, an experienced operator or expert must deliver face-to-face industrial manual assembly (I-MA) training. There is a limited number and availability of expert trainers, making training less accessible to trainees. Industrial virtual training systems (I-VTS) from research communities and commercial systems are focused on providing task demonstrations with rich multimedia immersive content. These systems can significantly lessen the reliance on the expert, but they still require an expert to observe and provide feedback. This study presents the "EXpert Independent Manual AsseMbly Virtual Trainer" (EXAMINER), addressing these limitations by integrating vision-based digitization of I-MA skills, comparison of digitized operators, and providing augmented feedback assessing the training outcomes automatically. This approach enhances trainee access to training without expert dependency. The study discusses the rationale and implementation process for the EXAMINER framework and a simulated case study evaluating the EXAMINER framework's ability to digitize and provide appropriate extrinsic augmented terminal feedback based on participant performance, marking a significant advancement in industrial training technology.
+AD  - Japan Adv Inst Sci & Technol, Sch Knowledge Sci, Ishikawa 9231211, JapanAD  - Thammasat Univ, Sirindhorn Int Inst Technol, Sch Mfg Syst & Mech Engn, Pathum Thani 12120, ThailandAD  - Natl Elect & Comp Technol Ctr, Pathum Thani 12120, ThailandC3  - Japan Advanced Institute of Science & Technology (JAIST)C3  - Thammasat UniversityC3  - National Science & Technology Development Agency - ThailandC3  - National Electronics & Computer Technology Center (NECTEC)FU  - Thammasat University Research Fund [TUFT35/2564]
+FX  - This work was supported by the Thammasat University Research Fund under Contract TUFT35/2564.
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 2169-3536
+J9  - IEEE ACCESS
+JI  - IEEE Access
+PY  - 2024
+VL  - 12
+SP  - 133356
+EP  - 133391
+DO  - 10.1109/ACCESS.2024.3436910
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001327305200001
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  3
+Cited Reference Count:  85
+ER  -
+
+TY  - JOUR
+AU  - Tang, YM
+AU  - Ho, GTS
+AU  - Lau, YY
+AU  - Tsui, SY
+TI  - Integrated Smart Warehouse and Manufacturing Management with Demand Forecasting in Small-Scale Cyclical Industries
+T2  - MACHINES
+LA  - English
+KW  - smart warehouse
+KW  - smart manufacturing
+KW  - genetic algorithm
+KW  - roulette wheel
+KW  - demand forecasting
+KW  - inventory optimization
+KW  - cyclical industry
+KW  - SUPPORT VECTOR REGRESSION
+KW  - INVENTORY-ROUTING PROBLEM
+KW  - GENETIC ALGORITHM
+KW  - SYSTEM
+KW  - SIMULATION
+KW  - MODEL
+AB  - In the context of the global economic slowdown, demand forecasting, and inventory and production management have long been important topics to the industries. With the support of smart warehouses, big data analytics, and optimization algorithms, enterprises can achieve economies of scale, and balance supply and demand. Smart warehouse and manufacturing management is considered the culmination of recently advanced technologies. It is important to enhance the scalability and extendibility of the industry. Despite many researchers having developed frameworks for smart warehouse and manufacturing management for various fields, most of these models are mainly focused on the logistics of the product and are not generalized to tackle the specific manufacturing problem facing in the cyclical industry. Indeed, the cyclical industry has a key problem: the big risk which high sensitivity poses to the business cycle and economic recession, which is difficult to foresee. Despite many inventory optimization approaches being proposed to optimize the inventory level in the warehouse and facilitate production management, the demand forecasting technique is seldom focused on the cyclic industry. On the other hand, management approaches are usually based on the complex logistics process instead of integrating the inventory level of the stock, which is very crucial to composing smart warehouses and manufacturing. This research study proposed a digital twin framework by integrating the smart warehouse and manufacturing with the roulette genetic algorithm for demand forecasting in the cyclical industry. We also demonstrate how this algorithm is practically implemented for forecasting the demand, sustaining manufacturing optimization, and achieving inventory optimization. We adopted a small-scale textile company case study to demonstrate the proposed digital framework in the warehouse and demonstrate the results of demand forecasting and inventory optimization. Various scenarios were conducted to simulate the results for the digital twin. The proposed digital twin framework and results help manufacturers and logistics companies to improve inventory management. This study has important theoretical and practical significance for the management of the cyclical industry.
+AD  - Hong Kong Polytech Univ, Dept Ind & Syst Engn, Hong Kong, Peoples R ChinaAD  - Hang Seng Univ Hong Kong, Dept Supply Chain & Informat Management, Hong Kong, Peoples R ChinaAD  - Hong Kong Polytech Univ, Div Business & Hosp Management, Coll Profess & Continuing Educ, Hong Kong, Peoples R ChinaC3  - Hong Kong Polytechnic UniversityC3  - Hang Seng University of Hong KongC3  - Hong Kong Polytechnic UniversityFU  - Hong Kong Polytechnic University [SPF20-22/ISE]; University Grants Committee of the Hong Kong (RMGS) [700007]
+FX  - This project is supported partially by the Funding for Strategic Plan Initiatives to Expand Research Elements in the Undergraduate Curriculum 2020-22, the Hong Kong Polytechnic University (Ref.: SPF20-22/ISE) and matching grant from the University Grants Committee of the Hong Kong (RMGS Project No. 700007).
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2075-1702
+J9  - MACHINES
+JI  - Machines
+DA  - JUN
+PY  - 2022
+VL  - 10
+IS  - 6
+C7  - 472
+DO  - 10.3390/machines10060472
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000817483000001
+N1  - Times Cited in Web of Science Core Collection:  23
+Total Times Cited:  23
+Cited Reference Count:  58
+ER  -
+
+TY  - JOUR
+AU  - Ojeda, JCO
+AU  - de Moraes, JGB
+AU  - Sousa, CVD
+AU  - Pereira, MD
+AU  - Pereira, JVD
+AU  - Dias, ICP
+AU  - da Silva, ECM
+AU  - Peixoto, MGM
+AU  - Gonçalves, MC
+TI  - Application of a Predictive Model to Reduce Unplanned Downtime in Automotive Industry Production Processes: A Sustainability Perspective
+T2  - SUSTAINABILITY
+LA  - English
+KW  - machine learning
+KW  - predictive maintenance
+KW  - automotive industry
+KW  - sustainability
+KW  - unplanned downtime
+KW  - Industry 4.0
+AB  - The automotive industry constantly seeks intelligent technologies to increase competitiveness, reduce costs, and minimize waste, in line with the advancements of Industry 4.0. This study aims to implement and analyze a predictive model based on machine learning within the automotive industry, validating its capability to reduce the impact of unplanned downtime. The implementation process involved identifying the central problem and its root causes using quality tools, prioritizing equipment through the Analytic Hierarchy Process (AHP), and selecting critical failure modes based on the Risk Priority Number (RPN) derived from the Process Failure Mode and Effects Analysis (PFMEA). Predictive algorithms were implemented to select the best-performing model based on error metrics. Data were collected, transformed, and cleaned for model preparation and training. Among the five machine learning models trained, Random Forest demonstrated the highest accuracy. This model was subsequently validated with real data, achieving an average accuracy of 80% in predicting failure cycles. The results indicate that the predictive model can effectively contribute to reducing the financial impact caused by unplanned downtime, enabling the anticipation of preventive actions based on the model's predictions. This study highlights the importance of multidisciplinary approaches in Production Engineering, emphasizing the integration of machine learning techniques as a promising approach for efficient maintenance and production management in the automotive industry, reinforcing the feasibility and effectiveness of predictive models in contributing to sustainability.
+AD  - Pontifical Catholic Univ Parana PUCPR, Ind & Syst Engn Program, BR-80215901 Curitiba, BrazilAD  - Univ Brasilia UNB, Ind Engn Dept, BR-70910900 Brasilia, BrazilC3  - Pontificia Universidade Catolica do ParanaC3  - Universidade de BrasiliaFU  - Fundaco de Apoio a Pesquisa do Distrito Federal (FAPDF); Universidade de Brasilia (UNB)
+FX  - This research was funded by Fundac & atilde;o de Apoio a Pesquisa do Distrito Federal (FAPDF) and Universidade de Brasilia (UNB).
+PU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - APR 27
+PY  - 2025
+VL  - 17
+IS  - 9
+C7  - 3926
+DO  - 10.3390/su17093926
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001486559000001
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  54
+ER  -
+
+TY  - JOUR
+AU  - Ramdass, KR
+AU  - Mokgohloa, K
+TI  - AN EXPLORATION OF EFFECTIVE SUPERVISORY ENGAGEMENT IN THE CLOTHING INDUSTRY THROUGH ACTIVITY SAMPLING TECHNIQUE
+T2  - SOUTH AFRICAN JOURNAL OF INDUSTRIAL ENGINEERING
+LA  - English
+AB  - The gradual decrease in income through national and international competition led around 50% of South African clothing manufacturers to shut down their businesses in the past decade. In the struggle to improve their productivity, organisations are evaluating human assets for further value-add. Industry 4.0 embraces the total interaction of technology and human resources to create a multi-skilled environment. In this endeavour, first-line managers ( supervisors) in the clothing manufacturing industry play a critical role in eliminating non-value-added activities. The meteoric rise of technology-driven processes driven by Industry 4.0 has disrupted almost all business models, and the clothing sector is not immune to these winds of change. It lacks the drive to undertake continuous improvement owing to an impasse in the skills-driven improvement and the application of industrial engineering principles. Organisations are seeking improvement opportunities in multi-skilling the workforce. In this study, supervisory activities were evaluated to determine value-add in the production process and to evaluate supervisory engagement to identify non-value-added activities and to lay a foundation for leveraging human capital as a competitive advantage. The research adopted the application of activity sampling analysis through a case study at a clothing manufacturer. Direct observation and informal discussions on the factory floor were used as the primary means of data collection. The outcome of the research points to gaps between the machine age, which was characterised by a command-and-control authority, and the conditions of the digital age, which requires a new role for shop floor coaches, in which the supervisor motivates and leverages the symbiotic relationship between employees and technology in producing goods.
+AD  - Univ South Africa, Dept Ind Engn, Pretoria, South AfricaC3  - University of South AfricaPU  - SOUTHERN AFRICAN INST INDUSTRIAL ENGINEERING
+PI  - PRETORIA
+PA  - UNIV PRETORIA, DEPT INDUSTRIAL SYSTEMS ENGINEERING, PRETORIA, 0001, SOUTH AFRICA
+SN  - 2224-7890
+J9  - S AFR J IND ENG
+JI  - S. Afr. J. Ind. Eng.
+DA  - DEC
+PY  - 2022
+VL  - 33
+IS  - 4
+SP  - 165
+EP  - 176
+DO  - 10.7166/33-4-2670
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000899367000012
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  27
+ER  -
+
+TY  - JOUR
+AU  - de las Morenas, J
+AU  - Moya-Fernández, F
+AU  - López-Gómez, JA
+TI  - The Edge Application of Machine Learning Techniques for Fault Diagnosis in Electrical Machines
+T2  - SENSORS
+LA  - English
+KW  - fault diagnosis
+KW  - edge computing
+KW  - machine learning
+KW  - motor current signature analysis
+KW  - INDUCTION-MOTORS
+KW  - SIGNATURE ANALYSIS
+KW  - SYSTEM
+AB  - The advent of digitization has brought about new technologies that enable advanced condition monitoring and fault diagnosis under the Industry 4.0 paradigm. While vibration signal analysis is a commonly used method for fault detection in literature, it often involves the use of expensive equipment in difficult-to-reach locations. This paper presents a solution for fault diagnosis of electrical machines by utilizing machine learning techniques on the edge, classifying information coming from motor current signature analysis (MCSA) for broken rotor bar detection. The paper covers the process of feature extraction, classification, and model training and testing for three different machine learning methods using a public dataset to then export the results to diagnose a different machine. An edge computing approach is adopted for the data acquisition, signal processing and model implementation on an affordable platform, the Arduino. This makes it accessible for small and medium-sized companies, albeit with the limitations of a resource-constrained platform. The proposed solution has been tested on electrical machines in the Mining and Industrial Engineering School of Almaden (UCLM) with positive results.
+AD  - Univ Castilla La Mancha, Min & Ind Engn Sch Almaden, Almaden 13400, SpainAD  - Univ Castilla La Mancha, Mantis Res Grp, EIIA Toledo, Toledo 45005, SpainC3  - Universidad de Castilla-La ManchaC3  - Universidad de Castilla-La ManchaPU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 1424-8220
+J9  - SENSORS-BASEL
+JI  - Sensors
+DA  - MAR
+PY  - 2023
+VL  - 23
+IS  - 5
+C7  - 2649
+DO  - 10.3390/s23052649
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000947162600001
+N1  - Times Cited in Web of Science Core Collection:  33
+Total Times Cited:  35
+Cited Reference Count:  57
+ER  -
+
+TY  - JOUR
+AU  - Hu, YC
+AU  - Meng, H
+AU  - Liu, J
+TI  - Factors influencing the development of manufacturing automation in Chinese prefabrication factories
+T2  - JOURNAL OF ASIAN ARCHITECTURE AND BUILDING ENGINEERING
+LA  - English
+KW  - Manufacturing automation
+KW  - prefabrication factory
+KW  - China
+KW  - factor analysis
+KW  - INDUSTRY 4.0
+KW  - CONSTRUCTION
+KW  - TECHNOLOGIES
+KW  - CHALLENGES
+KW  - TRANSITION
+AB  - Manufacturing automation in prefabrication factories (MAPF) is a critical means of enhancing the level of digitalization and intelligence in the constrution industry. However, there hasn't been much research done to look at the complex interactions between the primary factors influencing MAPF. This study attempts to fill the gap by identifying the motivators behind this topic from the perspectives of the macroenvironment, technology, manufacturing management, and human resources. A questionnaire survey was conducted among 29 professionals to ascertain their attitudes regarding the relationship between the 16 factors selected. The DEMATEL-AISM qualitative research method was used to look at the relationships and importance of the factors in the actual implementation of MAPF. In the context of China, the results reveal that macro-investment stands out as the most significant key factor. Moreover, there is a strong correlation between senior management and stakeholders, competitive advantage, and the robustness of equipment with other factors. While policy, regulations, and robots are the three root drivers. The results shed light on significant factors and their intricate relationships that are necessary for the ongoing utilization of MAPF for researchers, policymakers, and end users of prefabrication factories in the construction sector.
+AD  - Shanghai Jiao Tong Univ, Sch Design, 800 Dongchuan RD, Shanghai 200240, Peoples R ChinaAD  - Tongji Univ, Coll Civil Engn, Shanghai, Peoples R ChinaC3  - Shanghai Jiao Tong UniversityC3  - Tongji UniversityFU  - National Natural Science Foundation of China [52378023]; Shanghai Municipal Commission of Economy and Informatization [ZB-ZBST-01- 23-0318]
+FX  - The work was supported by the National Natural Science Foundation of China [52378023]; Shanghai Municipal Commission of Economy and Informatization [ZB-ZBST-01- 23-0318].
+PU  - TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN  - 1346-7581
+SN  - 1347-2852
+J9  - J ASIAN ARCHIT BUILD
+JI  - J. Asian Archit. Build. Eng.
+DA  - 2025 MAY 12
+PY  - 2025
+DO  - 10.1080/13467581.2025.2497406
+C6  - MAY 2025
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Arts &amp; Humanities Citation Index (A&amp;HCI)AN  - WOS:001484845800001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  80
+ER  -
+
+TY  - JOUR
+AU  - Rakyta, M
+AU  - Bubenik, P
+AU  - Binasova, V
+AU  - Micieta, B
+AU  - Staffenova, K
+TI  - Advanced Logistics Strategy of a Company to Create Sustainable Development in the Industrial Area
+T2  - SUSTAINABILITY
+LA  - English
+KW  - MTS
+KW  - MTO
+KW  - logistics strategy
+KW  - advanced industrial engineering
+KW  - IMPACT
+AB  - Strategic management determines the direction of a company for several years ahead. Managers and business owners who create strategies must anticipate and be able to see systemically. Logistics is a fundamental process in the industrial field, and despite the constant emphasis on importance, companies encounter problems in this area. A prerequisite for properly functioning logistics for companies operating in the industrial sector is an appropriately chosen logistics strategy, which is the subject of this work. The first part summarizes the theoretical basis for strategy and logistics, current trends, and influencing logistics processes. The second chapter analyzes the current state of logistics strategy development and summarizes its problem areas at the same time. The focal part of the contribution is the innovative proposal of the methodology for developing the logistics strategy in the industrial area through a progressive approach. The methodology is partially verified. The proposed methodology offers companies the opportunity to evaluate the current state of the logistics system correctly, select the correct elements of the external and internal environment affecting logistics processes, define goals and limitations, choose the right indicators that will enable the evaluation of the implemented strategy, formulate a strategy that will reflect the requirements of the company and include new technologies, correctly create the framework of the strategy implementation project, and, finally, visualize and evaluate the selected indicators during and after the implementation of the strategy. Among the created variants of the logistics strategy is the introduction of elements that will lead to the gradual development of the Industry 4.0 trend in a company.
+AD  - Univ Zilina, Fac Mech Engn, Dept Ind Engn, Univ 8215-1, Zilina 01026, SlovakiaC3  - University of ZilinaFU  - VEGA [1/0524/22, 1/0248/21]
+FX  - This work was supported by the VEGA 1/0524/22-Research of proactive approach sustainability of production systems under crisis conditions in the context of the green economy. This work was supported by the VEGA 1/0248/21-Research of innovative solutions for segmentation and sustainability of product regarding assembly operations.
+PU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - OCT
+PY  - 2022
+VL  - 14
+IS  - 19
+C7  - 12659
+DO  - 10.3390/su141912659
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000867153700001
+N1  - Times Cited in Web of Science Core Collection:  8
+Total Times Cited:  9
+Cited Reference Count:  52
+ER  -
+
+TY  - JOUR
+AU  - Davidrajuh, R
+AU  - Krenczyk, D
+AU  - Skolud, B
+TI  - Modular distributed models of production systems: a Petri net-based approach
+T2  - BULLETIN OF THE POLISH ACADEMY OF SCIENCES-TECHNICAL SCIENCES
+LA  - English
+KW  - production engineering systems
+KW  - sustainability
+KW  - modular Petri nets
+KW  - Petri modules
+KW  - gpensim
+KW  - DESIGN
+AB  - Modeling and simulation are key performance analysis and control techniques to optimize decision-making as well as design and operate complex production systems. They are also indicated as one of the technological pillars of modern industry and IT solutions supporting the implementation of the roadmap toward Industry 4.0 in the areas of digital transformation and automation. In the context of the required rapid transformation of today's enterprises, it becomes extremely important to look for solutions that allow the use of the existing infrastructure, information, and energy, so as to minimize the negative impact of new technologies and the transformation process itself on the environment. The article presents an approach to modeling large and complex production systems with the use of distributed Petri net models allowing the use of the possessed IT infrastructure as consistent with the idea of sustainable development in the activities of enterprises. This eliminates two major problems that render traditional models unusable. The first is related to the difficulties in analyzing and verifying models of enormous size and infinite space of states. The second is related to the required computing power, if such analyzes are to be performed on one computing unit, which would force the producers to replace the IT infrastructure. For this purpose, modular Petri nets are introduced. Other benefits of modularization, such as smaller components that can be independently analysed, are also presented in the paper. The proposed modular Petri net has been implemented in the proprietary GPenSIM software. The paper is complemented by a practical example of industrial modeling of production systems with automated guided vehicles (AGVs) using the modular model with intelligent Petri modules.
+AD  - Univ Stavanger, Stavanger, NorwayAD  - Silesian Tech Univ, Gliwice, PolandC3  - Universitetet i StavangerC3  - Silesian University of TechnologyPU  - POLSKA AKAD NAUK, POLISH ACAD SCI, DIV IV TECHNICAL SCIENCES PAS
+PI  - WARSZAWA
+PA  - PL DEFILAD 1, WARSZAWA, 00-901, POLAND
+SN  - 0239-7528
+SN  - 2300-1917
+J9  - B POL ACAD SCI-TECH
+JI  - Bull. Pol. Acad. Sci.-Tech. Sci.
+DA  - APR
+PY  - 2023
+VL  - 71
+IS  - 2
+C7  - e144621
+DO  - 10.24425/bpasts.2023.144621
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000983184400014
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  1
+Cited Reference Count:  42
+ER  -
+
+TY  - JOUR
+AU  - Popescu, D
+AU  - Dragomir, M
+AU  - Popescu, S
+AU  - Dragomir, D
+TI  - Building Better Digital Twins for Production Systems by Incorporating Environmental Related Functions-Literature Analysis and Determining Alternatives
+T2  - APPLIED SCIENCES-BASEL
+LA  - English
+KW  - digital twin
+KW  - digital production
+KW  - production system
+KW  - environmental management
+KW  - multi-criterial decision analysis
+KW  - SUSTAINABILITY
+AB  - The digital twin solution is an industry 4.0 specific tool that has grown in the past decade, stemming from the modelling and simulation approaches that existed before, complemented by new sensor capabilities, cloud processing, big data analytics, and implementation mechanisms. As it is being used mostly in the present by manufacturing companies, the primary focus of the solution is to enhance productivity and reduce costs by optimizing processes and enabling real-time problem-solving, sometimes based on decision-making systems and artificial intelligence. However, as companies are being faced with an increasingly steep list of environmental requirements and regulations, ranging from the classical pollution control and waste recycling to full-scale economic models based on circular economy and transformative carbon dioxide elimination programs, the features of the manufacturing digital twins must also evolve to provide an appropriate answer to these challenges. In this paper, the authors propose a framework for building better digital twins for production systems by incorporating environmental-related functions. The demarches start from analysing existing solutions presented in literature from the point of view of environmental suitability, based on the use of the MoSCoW method for differentiating attributes (into Must have, Should have, Could have, Will not have elements) and determining development alternatives based on the employment of Multi-Criteria Decision Analysis (MCDA) for feature selection, and the TRIZ method (Theory of Inventive Problem-Solving) for application guidelines. The MCDA was performed within a focus group of nine production specialists from regionally successful sectors. We arrive at the conclusion that environmental-related functions are poorly implemented in the digital twins of the present (although more so in integrated solutions and custom-built applications) and that the development of the proper tools, databases, and interpretation keys should proceed immediately in the fields of production engineering, industrial ecology, and software development to support them.
+AD  - Tech Univ Cluj Napoca, Dept Design Engn & Robot, Cluj Napoca 400641, RomaniaC3  - Technical University of Cluj NapocaPU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2076-3417
+J9  - APPL SCI-BASEL
+JI  - Appl. Sci.-Basel
+DA  - SEP
+PY  - 2022
+VL  - 12
+IS  - 17
+C7  - 8657
+DO  - 10.3390/app12178657
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000850983500001
+N1  - Times Cited in Web of Science Core Collection:  18
+Total Times Cited:  20
+Cited Reference Count:  47
+ER  -
+
